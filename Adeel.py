@@ -409,9 +409,9 @@ logo = """
 \33[1;41m𝗧𝗢𝗢𝗟𝗦 𝗨𝗣𝗗𝗔𝗧𝗘 𝗙𝗜𝗥𝗦𝗧 𝗦𝗘𝗡𝗧 𝗙𝗥𝗜𝗘𝗡𝗗 𝗥𝗘𝗤𝗨𝗘𝗦𝗧 \33[0m
 \x1b[1;97m---------------------------------------------------
 \x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :   LEGHARI BRAND 
-\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  ALONE LEGEND
-\x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕  :    KALIM KMC  🔥
-\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42 LEGHARI BROTHER'S \33[0m
+\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢K: SULMAN KABIR
+\x1b[1;97m[+] status  :  SINGLE HO YAR🥺 🔥
+\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42 LEGHARI BROTHER \33[0m
 \x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m ALONE LEGENT_🔥  \x1b[1;97m          
 \x1b[1;97m--------------------------------------
 """
@@ -441,7 +441,7 @@ class Main:
 			print("    Thanks♥️")
 			exit() 
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/puspa.raj.psycho.king.007  ")
+			os.system("xdg-open https://www.facebook.com/bed.baghel.39  ")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜𝗡𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
