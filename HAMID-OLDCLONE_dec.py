@@ -75,7 +75,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://raw.githubusercontent.com/Hamii-king-06/OLD/main/Approval.txt').text
+			plr = requests.get('https://raw.githubusercontent.com/4deeL-khan/Jaan/main/Approval.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -93,18 +93,20 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print ("""\033[0;92m##     ##    ###    ##     ## #### #### 
-\033[0;91m##     ##   ## ##   ###   ###  ##   ##  
-\033[0;92m##     ##  ##   ##  #### ####  ##   ##  
-\033[0;93m######### ##     ## ## ### ##  ##   ##  
-\033[0;94m##     ## ######### ##     ##  ##   ##  
-\033[0;95m##     ## ##     ## ##     ##  ##   ##  
-\033[0;96m##     ## ##     ## ##     ## #### #### 
+		print ("""\033[0;92m888888b.        8888888888      888       888             d8888      8888888888     d8888 
+888  "88b       888             888   o   888            d88888      888           d88888 
+888  .88P       888             888  d8b  888           d88P888      888          d88P888 
+8888888K.       8888888         888 d888b 888          d88P 888      8888888     d88P 888 
+888  "Y88b      888             888d88888b888         d88P  888      888        d88P  888 
+888    888      888             88888P Y88888        d88P   888      888       d88P   888 
+888   d88P      888             8888P   Y8888       d8888888888      888      d8888888888 
+8888888P"       8888888888      888P     Y888      d88P     888      888     d88P     888 
+                                                
 
- > \033[0;92mDEVELOPER     : HAMID MEER
- > \033[0;95mFACEBOOK ID   : HAMID MEER HAMII
- > \033[0;41mWHATSAPP      : +923155912839
- \033[0;96m> YOUTUBE       : HAMII WORLD
+ > \033[0;92mDEVELOPER     : ADEEL LEGHARI
+ > \033[0;95mFACEBOOK ID   : SULMAN KABIR X.X.X
+ > \033[0;41mWHATSAPP      : +92341788676
+ \033[0;96m> WORK          : FUCK HTRZ MKC
  > \033[0;97mWARNING       : DONT USE FOR ILLEGAL WORK     
     """)
 		print("%s [%s•%s] %sTOOL NAME : %sOld Fb Cracker"%(G,R,G,B,G))
